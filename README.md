@@ -1,5 +1,5 @@
 # Picture-Project
-Java project utilizing GUIs
+Java project game utilizing GUIs
 
 This is a GUI game I created back in mid-year 2021 for a high school project. In order to access it, download the folder and go to the CopsnRobbers.java file and run that class in your preferred Java IDE (e.g., IntelliJ or Eclipse).
 
