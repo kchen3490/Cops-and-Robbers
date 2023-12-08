@@ -1,7 +1,7 @@
 # Picture-Project
 Java project game utilizing GUIs
 
-This is a GUI game I created back in mid-year 2021 for a high school project. In order to access it, download the folder and go to the CopsnRobbers.java file and run that class in your preferred Java IDE (e.g., IntelliJ or Eclipse).
+This is a GUI game I created back in mid-year 2021 for a high school project. In order to access it, download the folder and go to the src/CopsnRobbers.java file and run that class in your preferred Java IDE (e.g., IntelliJ or Eclipse).
 
 This was my first Java program I created with creative freedom. Although it extends a superclass which does the work of implementing all the interfaces for a Java Swing GUI to work for my class, it was fun to learn how to program a GUI for the first time.
 
