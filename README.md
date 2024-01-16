@@ -1,5 +1,5 @@
 # Picture-Project
-This is a GUI application I created back in mid-year 2021 for a high school project. In order to access it, download this entire repository and go to the src/CopsnRobbers.java file and run that class in your preferred Java IDE (e.g., IntelliJ or Eclipse). Make sure you have the CopsnRobbersPics folder downloaded as well.
+This is a GUI application I created in May 2021 for a high school project. In order to access it, download this entire repository and go to the src/CopsnRobbers.java file and run that class in your preferred Java IDE (e.g., IntelliJ or Eclipse). Make sure you have the CopsnRobbersPics folder downloaded as well.
 
 This was my first creative Java program. Although it extends a superclass which does the work of implementing all the Java Swing library to work for my class, it was fun to create my very first GUI.
 
